@@ -1,0 +1,23 @@
+{
+  "id_": "ADB1AE4AB",
+  "segments_metadata": {
+    "I443A7658": {
+      "type": "Root_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "9ea0",
+      "layer": "Root_Segment-d65.json"
+    },
+    "IE45FD07F": {
+      "type": "Commentary",
+      "relation": "Target",
+      "lang": "Tibetan",
+      "base": "99bc",
+      "layer": "Commentary-c58.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Root_Commentary",
+    "source": "Kunpal-final"
+  }
+}
